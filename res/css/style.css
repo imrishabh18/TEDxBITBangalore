@@ -119,7 +119,7 @@
 
 @media (max-width: 480px){
   .slider .slide{
-    padding: 0 0 !important;
+    padding: 0 3.5% !important;
   }
 }
 /* Sponsors slideshow end */
